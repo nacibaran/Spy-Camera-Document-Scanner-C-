@@ -1,1 +1,1 @@
-# Spy-Camera-Document-Scanner-C-
+# Spy-Camera-Document-Scanner-C++-
